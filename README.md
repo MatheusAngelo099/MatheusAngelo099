@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Matheus Angelo👋
 
-![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusangelo099&show_icons=true&theme=tokyonight)
+![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusAngelo099&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusangelo099&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusAngelo099&layout=compact&theme=tokyonight)
 
 ## Tecnologias que eu uso
 <div style = "display: inline_block"><br/>
